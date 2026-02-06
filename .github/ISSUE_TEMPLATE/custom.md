@@ -1,10 +1,25 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: 图表相关 issue
+about: 用于提交与 draw.io 图表相关的问题、建议或需求
+
 title: ''
 labels: ''
 assignees: ''
 
 ---
+
+## 问题描述
+请详细描述您遇到的问题或提出的建议。
+
+## 图表信息
+- 图表类型：[例如：流程图、UML图、ER图等]
+- 图表位置：[例如：common/、custom/、drafts/、projects/]
+- 相关文件：[如有相关文件，请列出路径]
+
+## 期望结果
+请描述您期望的解决方案或改进效果。
+
+## 附加信息
+如有其他相关信息、截图或参考资料，请在此提供。
 
 
