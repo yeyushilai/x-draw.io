@@ -1,4 +1,4 @@
-# draw.io 图表仓库
+# x-draw.io 图表仓库
 
 ## 项目简介
 `x-draw.io` 是一个专门用于存放通过 [draw.io](https://app.diagrams.net/) 网站绘制的各类图表的仓库。
