@@ -1,10 +1,10 @@
 # draw.io 图表仓库
 
 ## 项目简介
-一个专门用于存放通过 [draw.io](https://app.diagrams.net/) 网站绘制的各类图表的仓库。
+`x-draw.io` 是一个专门用于存放通过 [draw.io](https://app.diagrams.net/) 网站绘制的各类图表的仓库。
 
 ## draw.io 工具介绍
-draw.io 是一款功能强大的免费在线图表绘制工具，支持流程图、网络 diagram、UML 图、ER 图、数据库 schema 设计、BPMN 图、电路图等多种图表类型。
+`draw.io` 是一款功能强大的免费在线图表绘制工具，支持流程图、网络 diagram、UML 图、ER 图、数据库 schema 设计、BPMN 图、电路图等多种图表类型。
 
 ## 如何使用
 
